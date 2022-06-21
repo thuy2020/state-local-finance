@@ -7,7 +7,7 @@ paginate = 10
 #disqusShortname = "spf13"
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
-theme = "hugo-minimalist-theme"
+theme = "hugo-theme-papermod"
 
 
 [params]
