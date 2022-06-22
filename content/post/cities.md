@@ -8,3 +8,6 @@ Among the one hundred largest US cities, Chicago, IL was the most indebted with 
 Other major cities with liabilities more than quadruple revenues were Houston, TX, Atlanta, GA and Dallas, TX.
 
 Four cities had liability-to-revenue ratios below 100%. In ascending order by ratio these were Boise, ID, Irvine, CA, Santa Clarita, CA and Aurora, CO.
+![Map](/img/qcyQ7-large-city-government-liabilities-rgb.svg)
+
+![Ratio](/img/ratio.png)
